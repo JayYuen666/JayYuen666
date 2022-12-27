@@ -1,15 +1,15 @@
-import yayJpg from '../assets/yay.jpg';
+import react from '../assets/react.svg';
 
 export default function HomePage() {
-  return (
-    <div>
-      <h2>Yay! Welcome to umi!</h2>
-      <p>
-        <img src={yayJpg} width="388" />
-      </p>
-      <p>
-        To get started, edit <code>pages/index.tsx</code> and save to reload.
-      </p>
-    </div>
-  );
+	return (
+		<div>
+			<h2>Yay! Welcome to JayYuen!</h2>
+			<p>
+				<img src={react} width={200} />
+			</p>
+			<p>
+				这是一个实验版的<code>react</code>项目
+			</p>
+		</div>
+	);
 }
