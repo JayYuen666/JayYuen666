@@ -1,21 +1,41 @@
 import { Link, Outlet } from 'umi';
+import { ConfigProvider, Layout, Menu } from 'antd';
+import type { MenuProps } from 'antd';
+import dayjs from 'dayjs';
+import 'dayjs/locale/zh-cn';
+import zhCN from 'antd/locale/zh_CN';
+import 'antd/dist/reset.css';
 import styles from './index.less';
 
-export default function Layout() {
+dayjs.locale('zh-cn');
+const { Header, Content, Footer } = Layout;
+const items: MenuProps['items'] = [
+	{
+		label: (<Link to="/">首页</Link>),
+		key: 'index',
+	},
+	{
+		label: (<Link to="/docs">介绍</Link>),
+		key: 'doc',
+	},
+];
+export default function Layouts() {
 	return (
-		<div className={styles.navs}>
-			<ul>
-				<li>
-					<Link to="/">首页</Link>
-				</li>
-				<li>
-					<Link to="/docs">介绍</Link>
-				</li>
-				<li>
-					<a href="https://github.com/JayYuen666">Github</a>
-				</li>
-			</ul>
-			<Outlet />
-		</div>
+		<ConfigProvider locale={zhCN}>
+			<Layout className="layout" style={{ minHeight: "100vh" }}>
+				<Header>
+					<Menu
+						theme="dark"
+						mode="horizontal"
+						defaultSelectedKeys={["index"]}
+						items={items}
+					/>
+				</Header>
+				<Content style={{ flex: 1 }}>
+					<Outlet />
+				</Content>
+				<Footer style={{ textAlign: 'center' }}>JayYuen ©2022</Footer>
+			</Layout>
+		</ConfigProvider>
 	);
 }
