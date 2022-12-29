@@ -1,6 +1,6 @@
 {
   "private": true,
-  "author":"yuanjiang <yuanjiang@duia.com>",
+  "author": "yuanjiang <yuanjiang@duia.com>",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
@@ -9,6 +9,7 @@
     "start": "npm run dev"
   },
   "dependencies": {
+    "antd": "^5.1.1",
     "umi": "^4.0.33"
   },
   "devDependencies": {
