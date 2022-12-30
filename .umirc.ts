@@ -5,6 +5,6 @@ export default {
 	},
 	routes: [
 		{ path: '/', component: 'index' },
-		{ path: '/docs', component: 'docs' },
+		{ path: '/components', component: "@/pages/Components" },
 	],
 };
