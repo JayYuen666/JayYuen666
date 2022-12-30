@@ -1,41 +1,29 @@
-import { Link, Outlet } from 'umi';
-import { ConfigProvider, Layout, Menu } from 'antd';
-import type { MenuProps } from 'antd';
-import dayjs from 'dayjs';
-import 'dayjs/locale/zh-cn';
-import zhCN from 'antd/locale/zh_CN';
-import 'antd/dist/reset.css';
+import { Link, Navigate, Outlet, history } from 'umi';
+import classNames from 'classnames/bind';
+import logo from "../assets/logo.svg";
+import github from "../assets/github.svg"
 import styles from './index.less';
-
-dayjs.locale('zh-cn');
-const { Header, Content, Footer } = Layout;
-const items: MenuProps['items'] = [
-	{
-		label: (<Link to="/">首页</Link>),
-		key: 'index',
-	},
-	{
-		label: (<Link to="/docs">介绍</Link>),
-		key: 'doc',
-	},
-];
+let cx = classNames.bind(styles);
 export default function Layouts() {
 	return (
-		<ConfigProvider locale={zhCN}>
-			<Layout className="layout" style={{ minHeight: "100vh" }}>
-				<Header>
-					<Menu
-						theme="dark"
-						mode="horizontal"
-						defaultSelectedKeys={["index"]}
-						items={items}
-					/>
-				</Header>
-				<Content style={{ flex: 1 }}>
-					<Outlet />
-				</Content>
-				<Footer style={{ textAlign: 'center' }}>JayYuen ©2022</Footer>
-			</Layout>
-		</ConfigProvider>
+		<div className={cx("layout")}>
+			<header className={cx("layout-header")}>
+				<div className={cx("layout-header-inner")}>
+					<div className={cx("layout-header-left")} onClick={() => history.push('/')}>
+						<img src={logo} />
+					</div>
+					<div className={cx("layout-header-nav")}>
+						<div onClick={() => history.push("/components")} className={cx("layout-header-nav_link")}>
+							基础组件
+						</div>
+						<div className={cx("layout-header-nav_link")}>
+						<img src={github} className={cx("github")} onClick={() => window.open("https://github.com/JayYuen666/yuen", "_blank")} />
+						</div>
+					</div>
+				</div>
+			</header>
+			<Outlet />
+			<footer style={{ textAlign: 'center' }}>JayYuen ©2022</footer>
+		</div>
 	);
 }
