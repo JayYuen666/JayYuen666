@@ -1,8 +1,8 @@
 <div align=center>
 
-## Hi, this is JayYuen. :wave
+## Hi, this is JayYuen. :wave:
 
-## Introduction :raised_hands
+## Introduction :raised_hands:
 
 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒 𝑎𝑡 [@Gmail](mailto:cqwkkj@gmail.com). :email:
 
@@ -69,7 +69,7 @@ Hope to make more friends in open source projects. :eyes:
 
 [![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=JayYuen666&repo=gatsby-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JayYuen666/gatsby-app)
 
-## Analysis :point_down
+## Analysis :point_down:
 
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
