@@ -1,6 +1,6 @@
 <div align=center>
 
-## Hi, this is JayYuen. :wave:
+## Hi everyone, my name is JayYuen. :wave:
 
 ## Introduction :raised_hands:
 
@@ -65,9 +65,9 @@ Hope to make more friends in open source projects. :eyes:
 
 [![JayYuen-vue3](https://github-readme-stats.vercel.app/api/pin/?username=JayYuen666&repo=JayYuen-vue3&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JayYuen666/JayYuen-vue3)
 
-[![Course Assistant](https://github-readme-stats.vercel.app/api/pin/?username=JayYuen666&repo=template&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JayYuen666/template)
+[![JayYuen-react](https://github-readme-stats.vercel.app/api/pin/?username=JayYuen666&repo=JayYuen-react&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JayYuen666/JayYuen-react)
 
-[![My Blog](https://github-readme-stats.vercel.app/api/pin/?username=JayYuen666&repo=gatsby-app&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JayYuen666/gatsby-app)
+[![Yuen-Design](https://github-readme-stats.vercel.app/api/pin/?username=JayYuen666&repo=Yuen-Design&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JayYuen666/Yuen-Design)
 
 ## Analysis :point_down:
 
@@ -85,7 +85,5 @@ Hope to make more friends in open source projects. :eyes:
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JayYuen666&theme=onedark)
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=JayYuen666&theme=github)
 
 </div>
