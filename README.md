@@ -6,7 +6,7 @@
 
 𝑅𝑒𝑎𝑐ℎ 𝑚𝑒 𝑎𝑡 [@Gmail](mailto:cqwkkj@gmail.com). :email:
 
-Student of [Chongqing Three Gorges University(CTGU)](https://www.sanxiau.edu.cn/).𝑀𝑎𝑗𝑜𝑟 𝑖𝑛 Computer Science and Technology. :school:
+Student of [Chongqing Sanxia University Of Science And Technology(CSUST)](https://www.sanxiau.edu.cn/).𝑀𝑎𝑗𝑜𝑟 𝑖𝑛 Computer Science and Technology. :school:
 
 𝑾𝒐𝒓𝒌 𝒉𝒂𝒓𝒅 𝒕𝒐 𝒃𝒆 𝒂 𝒈𝒐𝒐𝒅 𝒇𝒓𝒐𝒏𝒕𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓. :man_technologist:
 
@@ -40,34 +40,6 @@ Hope to make more friends in open source projects. :eyes:
 ![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
 
 </p>
-
-<p>
-
-![Vite](https://img.shields.io/badge/Vite-B73BFE?&logo=vite&logoColor=FFD62E)
-![Git](https://img.shields.io/badge/-Git-f14e32?logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
-![Node](https://img.shields.io/badge/-Node-43853d?&logo=Node.js&logoColor=white)
-![Npm](https://img.shields.io/badge/npm-CB3837?&logo=npm&logoColor=white)
-
-</p>
-
-<p>
-
-![Postcss](https://img.shields.io/badge/postcss-DD3A0A?logo=postcss&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?&logo=sass&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?&logo=prettier&logoColor=white)
-![Lodash](https://img.shields.io/badge/Lodash-3492FF?logo=lodash&logoColor=white")
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white)
-
-</p>
-
-## 🗂️ Highlight Projects
-
-[![JayYuen-vue3](https://github-readme-stats.vercel.app/api/pin/?username=JayYuen666&repo=JayYuen-vue3&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JayYuen666/JayYuen-vue3)
-
-[![JayYuen-react](https://github-readme-stats.vercel.app/api/pin/?username=JayYuen666&repo=JayYuen-react&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JayYuen666/JayYuen-react)
-
-[![Yuen-Design](https://github-readme-stats.vercel.app/api/pin/?username=JayYuen666&repo=Yuen-Design&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/JayYuen666/Yuen-Design)
 
 ## Analysis :point_down:
 
