@@ -22,6 +22,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: JayYuen666
           filename: metrics.svg
+          committer_branch: metrics
           template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Shanghai

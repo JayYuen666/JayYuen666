@@ -46,7 +46,7 @@ Graduated from Chongqing Sanxia University of Science and Technology (CSUST), ma
 
 ## 统计 / Stats
 
-![GitHub metrics](./metrics.svg)
+![GitHub metrics](https://raw.githubusercontent.com/JayYuen666/JayYuen666/metrics/metrics.svg)
 
 ![Contribution heatmap](https://ghchart.rshah.org/4D6BFE/JayYuen666)
 
